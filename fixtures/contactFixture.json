@@ -1,0 +1,17 @@
+{
+    "AddContact":{
+        "fname":"swapnil",
+        "lname":"lamsal",
+        "dob":"2004/04/03",
+        "email":"swap@gmail.com",
+        "phone":"989898",
+        "address1":"raniban",
+        "address2":"bansthali",
+        "city":"ktm",
+        "state":"3",
+        "postal":"123",
+        "country":"india"
+
+
+    }
+}

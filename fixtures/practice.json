@@ -1,0 +1,31 @@
+{
+    "user":{
+       "firstName":"Ramila",
+       "lastName":"Shres",
+       "birthdate":"2022-02-15",
+       "email":"rr@r.com",
+       "phone":"987412589",
+       "street1":"balaju",
+       "street2":"baisdhara",
+       "city":"KTM",
+       "stateProvince":"3",
+       "postalCode":"44006",
+       "country":"Nepal"
+       
+    },
+    "editcontact":
+    {
+        "firstName":"Kamila",
+       "lastName":"Shres",
+       "birthdate":"2022-02-15",
+       "email":"rr@r.com",
+       "phone":"9874125890",
+       "street1":"balaju",
+       "street2":"chwok",
+       "city":"KTM",
+       "stateProvince":"3",
+       "postalCode":"44006",
+       "country":"Nepal"
+
+    }
+}
